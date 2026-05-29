@@ -1,0 +1,21 @@
+{
+  "name": "partslink24-connector",
+  "version": "1.0.0",
+  "description": "Production-ready HTTP wrapper around partslink24 using Node.js and Playwright.",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --test test/"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "pino": "^9.5.0",
+    "pino-http": "^10.3.0",
+    "playwright": "^1.47.0"
+  }
+}
