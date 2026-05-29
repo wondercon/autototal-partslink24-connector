@@ -1,5 +1,5 @@
 {
-  "name": "partslink24-connector",
+  "name": "autototal-partslink24-connector",
   "version": "1.0.0",
   "description": "Production-ready HTTP wrapper around partslink24 using Node.js and Playwright.",
   "main": "src/index.js",

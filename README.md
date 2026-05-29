@@ -1,4 +1,4 @@
-# partslink24-connector
+# autototal-partslink24-connector
 
 Small HTTP service that logs into `partslink24`, runs a VIN + part-name lookup with Playwright, and returns JSON.
 
